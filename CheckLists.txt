@@ -1,0 +1,5 @@
+{
+"1.First check":"YESorNo",
+"2.Second check":"YESorNo",
+"n.Number check":"YESorNo"
+}
